@@ -1,0 +1,19 @@
+{
+  "name": "Color Screen",
+  "short_name": "ColorScreen",
+  "description": "Luz, color y estilos a pantalla completa.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "background_color": "#120e0c",
+  "theme_color": "#e39b6d",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    }
+  ]
+}
