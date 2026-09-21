@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-label="Color Screen">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f3b27a"/>
+      <stop offset="42%" stop-color="#e48b58"/>
+      <stop offset="100%" stop-color="#7a3a88"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="55%">
+      <stop offset="0%" stop-color="#fff4e6" stop-opacity="0.95"/>
+      <stop offset="55%" stop-color="#f0a36a" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="420" fill="url(#sky)"/>
+  <rect width="1200" height="420" fill="url(#glow)"/>
+  <text x="600" y="198" text-anchor="middle" fill="#1c1410" font-family="Georgia, serif" font-style="italic" font-size="64">Color Screen</text>
+  <text x="600" y="248" text-anchor="middle" fill="#1c1410" fill-opacity="0.72" font-family="system-ui, sans-serif" font-size="22" letter-spacing="4">LUZ · COLOR · FULLSCREEN</text>
+</svg>
